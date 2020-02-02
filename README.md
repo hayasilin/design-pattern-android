@@ -1,10 +1,8 @@
 # Android Design Pattern
 
-This is review of this book: [Design Pattern Android](https://www.tenlong.com.tw/products/9789864340941?list_name=srh).
+This is a review of this book: [Design Pattern Android](https://www.tenlong.com.tw/products/9789864340941?list_name=srh).
 
-This book demonstrates design pattern that is used in Android.
-
-I pick up some important contents from each chapter and sample code from the book. Enjoy it.
+The book demonstrates design pattern that is used in Android. I pick up some important contents from each chapter and sample code from the book. Enjoy it.
 
 ## Table of Contents
 - [Chapter 2 Singleton pattern](#chapter-2-singleton-pattern)
